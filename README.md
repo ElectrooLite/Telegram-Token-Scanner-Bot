@@ -43,6 +43,6 @@ Built with **Node.js**, **TypeScript**, **Telegraf**, and **@solana/web3.js**.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/sentora-scanner.git
 cd sentora-scanner
 npm install
+npm run dev
