@@ -32,12 +32,11 @@ Built with **Node.js**, **TypeScript**, **Telegraf**, and **@solana/web3.js**.
 - A **Telegram bot token** from [@BotFather](https://t.me/BotFather)
 - A **Solana RPC URL** (public or paid)
 - A **Helius API key**
-- A **Alchemy API key**
 
 ---
 
 ## ✨ Use Case
-- run /soul <token-address> in Telegram
+- run /soul 'token-address' in Telegram
 
 ---
 
